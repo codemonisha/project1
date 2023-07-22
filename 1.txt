@@ -1,3 +1,4 @@
-today is 22 july 2023
-hi welcome to devops class 
+today is 22 july 2023 its a saturday
+its a weekend hi welcome to devops class 
 this a new session
+currently learning k8 welcomes
